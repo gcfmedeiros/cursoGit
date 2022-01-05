@@ -1,0 +1,12 @@
+import java.io.FileInputStream;
+
+public class TestaProperties {
+
+	public static void main(String[] args) {
+		System.out.println("Teste de properties:");
+		
+		FileInputStream file = new FileInputStream("./dados.properties";)
+
+	}
+
+}
